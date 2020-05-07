@@ -49,6 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       "0",".","+/-","=",
                    //   "pie","x²","R2","R0"
                   ];
+
   var acceptableOperations = ["AC","+","-","/","X","=","%"];
   final prohibitedOperations = ["√x","+/-"];
 
